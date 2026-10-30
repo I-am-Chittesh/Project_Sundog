@@ -40,4 +40,9 @@
 2. safety algorithm to ensure that bot doesn't fall off
 3. should cover all parts of the panel (algorithm)
 4. proper awareness of power ( before loading onto the panel, it should check if it can clean the entire panel)
+
+---
+# Digital Twin
+1. twin of the visual data perceived by the camera of solar panels
+2. 
    
